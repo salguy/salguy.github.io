@@ -14,41 +14,41 @@ nav_order: 1
 ## 📋 문서 목차
 
 ### 🔹 프로젝트 소개
-- [프로젝트 개요](introduction.md)
+- [프로젝트 개요](introduction)
 
 ### 🔹 시스템 아키텍처
-- [전체 구성 개요](architecture/overview.md)
-- [하드웨어 구성](architecture/hardware.md)
-- [클라우드 인프라 구성](architecture/cloud-infra.md)
+- [전체 구성 개요](architecture/overview)
+- [하드웨어 구성](architecture/hardware)
+- [클라우드 인프라 구성](architecture/cloud-infra)
 
 ### 🔹 개발 가이드
-- [개발 환경 설정](development/setup.md)
-- [백엔드 개발](development/backend.md)
-- [프론트엔드 개발](development/frontend.md)
-- [AI 모델 구조](development/ai-models.md)
-- [API 명세서](development/api-reference.md)
+- [개발 환경 설정](development/setup)
+- [백엔드 개발](development/backend)
+- [프론트엔드 개발](development/frontend)
+- [AI 모델 구조](development/ai-models)
+- [API 명세서](development/api-reference)
 
 ### 🔹 기능 흐름
-- [복약 알림 루틴](logic/medication-flow.md)
-- [Wake Word 감지](logic/wakeword.md)
+- [복약 알림 루틴](logic/medication-flow)
+- [Wake Word 감지](logic/wakeword)
 
 ### 🔹 사용자 가이드
-- [AI 스피커 사용법](user-guide/speaker.md)
-- [관리자 앱 사용법](user-guide/manager-app.md)
+- [AI 스피커 사용법](user-guide/speaker)
+- [관리자 앱 사용법](user-guide/manager-app)
 
 ### 🔹 운영 및 유지보수
-- [서비스 배포 가이드](operations/deployment.md)
-- [CI/CD 설정](operations/ci-cd.md)
-- [서버 모니터링](operations/monitoring.md)
-- [문제 해결 방법](operations/troubleshooting.md)
+- [서비스 배포 가이드](operations/deployment)
+- [CI/CD 설정](operations/ci-cd)
+- [서버 모니터링](operations/monitoring)
+- [문제 해결 방법](operations/troubleshooting)
 
 ### 🔹 참고자료 및 부록
-- [변경 이력](resources/changelog.md)
-- [참고 자료](resources/references.md)
+- [변경 이력](resources/changelog)
+- [참고 자료](resources/references)
 
 ### 🔹 발표/보고 자료
-- [발표 포스터 요약](presentations/poster.md)
-- [중간/최종 보고서](presentations/report.md)
+- [발표 포스터 요약](presentations/poster)
+- [중간/최종 보고서](presentations/report)
 
 ---
 
