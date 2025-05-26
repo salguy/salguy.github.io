@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 살가이 ; 어르신 복약 관리 특화 AI 스피커
+description: 살가이 프로젝트 소개 페이지입니다.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://salguy.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "살가이 github page" :
+    - "//github.com/salguy"
+  "살가이 product page" :
+    - "//3.34.179.85:8000/test"
