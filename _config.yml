@@ -1,19 +1,39 @@
-title: 살가이
-logo: "/assets/images/살가이.png"
+remote_theme: just-the-docs/just-the-docs
 
-description: 살가이 프로젝트 소개 페이지입니다.
-theme: just-the-docs
+title: 살가이
+description: 독거노인을 위한 AI 복약관리 프로젝트
+logo: "/assets/images/살가이.png"
 
 url: https://salguy.github.io
 
+search_enabled: false
+
 aux_links:
-  "살가이 github page" :
+  "살가이 GitHub 페이지":
     - "//github.com/salguy"
-  "살가이 product page" :
+  "살가이 테스트 페이지":
     - "//3.34.179.85:8000/test"
 aux_links_new_tab: true
 
-nav:
-- "소개": index.md
-- "개발 가이드": development/index.md
-- "사용자 가이드": user-guide/index.md
+# 사이드바 설정
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+    sort_by: nav_order
+    
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+
+just_the_docs:
+  collections:
+    docs:
+      name: 문서
+      nav_order: 1
+      nav_fold: true
+
+footer_content: "Copyright &copy; 2025 Salguy Project. All rights reserved."

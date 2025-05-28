@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 변경 이력
-nav_order: 1
 ---
 
 # 🗂 변경 이력 (Changelog)

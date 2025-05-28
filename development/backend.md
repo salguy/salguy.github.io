@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 백엔드 개발
-nav_order: 2
+title: 서버 및 API 명세서
+nav_order: 4
 ---
 
 # 🔧 백엔드 개발

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 하드웨어 구성
-nav_order: 2
+nav_order: 6
 ---
 
 # 🧩 하드웨어 구성

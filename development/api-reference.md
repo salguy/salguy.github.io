@@ -1,7 +1,6 @@
 ---
 layout: default
 title: API 명세서
-nav_order: 5
 ---
 
 # 📡 API 명세서

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 프론트엔드 개발
+title: 스피커 UI
 nav_order: 3
 ---
 

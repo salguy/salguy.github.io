@@ -1,13 +1,7 @@
-
----
-
-### 📄 `ai-models.md`
-
-```markdown
 ---
 layout: default
 title: AI 모델
-nav_order: 4
+nav_order: 5
 ---
 
 # 🤖 AI 모델 구조

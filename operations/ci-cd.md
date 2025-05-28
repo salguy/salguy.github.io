@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CI/CD 구성
-nav_order: 2
 ---
 
 # 🔄 CI/CD 구성

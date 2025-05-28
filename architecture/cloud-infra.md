@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 클라우드 인프라
-nav_order: 3
 ---
 
 # ☁️ 클라우드 인프라

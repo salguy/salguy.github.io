@@ -1,7 +1,8 @@
 ---
 layout: default
-title: 개발 환경 설정
-nav_order: 2
+title: 개발 가이드
+nav_order: 1
+has_children: true
 ---
 
 # 🛠 개발 환경 설정

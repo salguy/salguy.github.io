@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 배포 가이드
-nav_order: 1
 ---
 
 # 🚀 배포 가이드
