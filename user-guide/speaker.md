@@ -1,39 +1,56 @@
 ---
 layout: default
-title: 참고자료
-nav_order: 2
+title: AI 스피커 사용법
+nav_order: 1
 ---
 
-# 🔗 참고자료 및 링크
+# 🗣 AI 스피커 사용법 안내
 
-살가이 프로젝트 개발에 참고한 외부 리소스 및 문서 링크를 정리합니다.
-
----
-
-## 📄 공식 문서
-
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [React Documentation](https://reactjs.org/)
-- [PM2 Documentation](https://pm2.keymetrics.io/)
-- [Porcupine Wake Word Engine](https://picovoice.ai/products/porcupine/)
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+이 문서는 **살가이 AI 스피커**를 사용하는 방법에 대해 설명합니다.  
+이 장치는 고령자의 복약 관리를 돕기 위해 제작된 음성 기반 스마트 디바이스입니다.
 
 ---
 
-## 📚 관련 논문 및 기술 블로그
+## ✅ 전원 연결 및 초기 설정
 
-- “Prompt Engineering for LLMs” (Hugging Face Blog)
-- “Lightweight STT on Edge Devices” (Google AI Research)
-- “LLM-based Health Chatbot Design” (ICHI 2024)
-
----
-
-## 🧪 실험 도구
-
-- [Google Colab](https://colab.research.google.com/)
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [PostgreSQL Docs](https://www.postgresql.org/docs/)
+1. 라즈베리파이 전원 어댑터를 연결합니다.
+2. 전원이 켜지면 자동으로 Wake Word 감지 및 알림 기능이 활성화됩니다.
+3. LED 표시등이 꺼져 있으면 대기 상태입니다.
 
 ---
 
-기타 문서 또는 인용 출처는 이곳에 계속 추가해주세요.
+## 🗣 사용 방법
+
+### 📌 AI 스피커 깨우기
+- "살가이야" 라고 말하면 스피커가 반응합니다.
+- 반응 시 “네?” 음성 피드백과 함께 **LED가 파란색** 으로 바뀝니다.
+
+### 📌 복약 응답하기
+- “방금 약 먹었어”, “오늘 아침에 혈압약 안 먹었어”와 같이 자연스럽게 말합니다.
+- AI가 복약 여부 및 시점을 분석해 저장합니다.
+
+---
+
+## ⏰ 알림 루틴 예시
+
+1. 약 시간 5분 전: **“조금 있으면 약 드실 시간이에요.”**
+2. 복약 시간 도달 시: **“지금 혈압약 드실 시간입니다.”**
+3. 응답이 없을 경우: 10분 간격으로 최대 3회까지 다시 알림.
+
+---
+
+## 🔴 LED 표시등 안내
+
+| 색상 | 의미 |
+|------|------|
+| OFF | 대기 상태 |
+| Blue | 듣는 중, 말하는 중 |
+| Yellow | 생각하는 중 |
+| Red | 오류 발생 |
+
+---
+
+## ⚠️ 주의사항
+
+- 너무 멀리서 말하면 음성이 잘 인식되지 않을 수 있습니다.
+- 인식이 잘 되지 않는다면 마이크 근처에서 천천히 말하는 것이 좋습니다.

@@ -1,12 +1,19 @@
-title: 살가이 ; 어르신 복약 관리 특화 AI 스피커
+title: 살가이
+logo: "/assets/images/살가이.png"
+
 description: 살가이 프로젝트 소개 페이지입니다.
 theme: just-the-docs
 
 url: https://salguy.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
   "살가이 github page" :
     - "//github.com/salguy"
   "살가이 product page" :
     - "//3.34.179.85:8000/test"
+aux_links_new_tab: true
+
+nav:
+- "소개": index.md
+- "개발 가이드": development/index.md
+- "사용자 가이드": user-guide/index.md

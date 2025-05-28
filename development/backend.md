@@ -16,7 +16,6 @@ nav_order: 2
 - fastapi
 - pydantic
 - uvicorn
-- psycopg2, motor (MongoDB)
 
 ## 실행 방식
 - PM2를 통한 지속 실행

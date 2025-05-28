@@ -12,7 +12,6 @@ nav_order: 1
 
 - 백엔드 서버: FastAPI 앱 → PM2로 실행
 - 프론트엔드 앱: React → Vite 빌드 후 정적 파일 서빙
-- Nginx(또는 자체 포트)를 사용해 리버스 프록시 가능
 
 ### 기본 배포 명령어 예시
 
@@ -20,6 +19,3 @@ nav_order: 1
 cd backend
 pm2 start main.py --interpreter=python3 --name=salguy-backend
 
-cd frontend
-npm run build
-serve -s dist

@@ -20,11 +20,11 @@ nav_order: 1
 
 ## 서버(EC2)
 - FastAPI
-- PostgreSQL, MongoDB
+- SQLite
 - PM2 (Node.js 앱 관리)
 
 ## 프론트엔드
-- React + Vite
+- React + Vite + TailwindCSS
 - Axios, Material UI
 
 각 파트별 `setup.sh` 또는 README 파일 참고.
