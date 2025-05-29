@@ -1,13 +1,13 @@
 ---
 layout: default
-title: API 명세서
-parent: "개발 가이드"
+title: 📄API 명세서
+parent: 🛠 개발 가이드
 nav_order: 4
 description: "살가이 프로젝트 API 명세서"
-permalink: /documents/development/APIspecification/
+permalink: /documents/developments/APIspecification/
 ---
 
-# 📡 API 명세서
+# 📄 API 명세서
 
 살가이 프로젝트의 서버는 FastAPI 기반 REST API 서버입니다. 라즈베리파이, EC2, GCP 간의 통신을 REST API로 처리하며, 사용자 관리, 복약 루틴 기록, 음성 처리 기능 등을 제공합니다.
 

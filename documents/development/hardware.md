@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 하드웨어 구성
+title: 🧩하드웨어 구성
 nav_order: 6
-parent: "개발 가이드"
+parent: 🛠 개발 가이드
 description: "살가이 프로젝트 하드웨어 개발 가이드"
-permalink: /documents/development/hardware/
+permalink: /documents/developments/hardware/
 ---
 
 # 🧩 하드웨어 구성

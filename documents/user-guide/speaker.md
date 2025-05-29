@@ -1,13 +1,13 @@
 ---
 layout: default
-title: AI 스피커 사용법
+title: 🗣 AI 스피커 사용법 매뉴얼
 parent: 사용자 가이드
 nav_order: 1
 description: "살가이 AI스피커 사용 매뉴얼"
 permalink: /documents/user-guide/speaker/
 ---
 
-# 🗣 AI 스피커 사용법 안내
+# 🗣 AI 스피커 사용법 매뉴얼
 
 이 문서는 **살가이 AI 스피커**를 사용하는 방법에 대해 설명합니다.  
 이 장치는 고령자의 복약 관리를 돕기 위해 제작된 음성 기반 스마트 디바이스입니다.
