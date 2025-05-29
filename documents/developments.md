@@ -76,8 +76,6 @@ permalink: /documents/developments/
 - **데이터베이스**: 현재는 SQLite 사용 (가볍고 관리 용이).  
   향후 안정성과 확장성을 고려해 PostgreSQL 이관을 검토 중입니다.
 
-### [📘 API 명세서 보기](APIspecification)
-
 ---
 
 ## [🎨 3. 프론트엔드 (React + Vite + TailwindCSS)](frontend)
