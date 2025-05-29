@@ -24,6 +24,8 @@ permalink: /documents/developments/
 
 모든 컴포넌트는 REST API 기반으로 통신하며, 고령자 친화성과 실시간 응답성을 고려하여 설계되었습니다.
 
+![살가이 아키텍처 다이어그램](/assets/images/살가이 아키텍처 다이어그램.drawio.png)
+그림-살가이 아키텍처 다이어그램
 ---
 
 ## 🔧 1. 시작에 앞서
