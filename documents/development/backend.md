@@ -22,4 +22,3 @@ permalink: /documents/developments/backend/
 - PM2를 통한 지속 실행
 - 로그는 `~/.pm2/logs/`에서 확인 가능
 
-### API 문서는 Swagger로 자동 생성됨: [API docs 바로가기](http://3.34.179.85:8000/docs)

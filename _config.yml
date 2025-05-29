@@ -14,8 +14,6 @@ search_enabled: false
 aux_links:
   "살가이 GitHub 페이지":
     - "//github.com/salguy"
-  "살가이 테스트 페이지":
-    - "//3.34.179.85:8000/test"
 aux_links_new_tab: true
 
 # 사이드바 설정
