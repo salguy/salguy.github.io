@@ -12,8 +12,7 @@ url: https://salguy.github.io
 search_enabled: false
 
 aux_links:
-  "살가이 GitHub 페이지":
-    - "//github.com/salguy"
+  "살가이 GitHub 페이지": "//github.com/salguy"
 aux_links_new_tab: true
 
 # 사이드바 설정
