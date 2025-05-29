@@ -2,6 +2,9 @@
 layout: default
 title: Hello World!
 nav_order: 1
+description: "살가이 프로젝트 문서에 오신 것을 환영합니다"
+permalink: /documents/helloworld/
+
 ---
 
 # 🧱 환영합니다!

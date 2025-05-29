@@ -1,6 +1,10 @@
 ---
 layout: default
 title: 관리자 앱 사용법
+parent: 사용자 가이드
+nav_order: 2
+description: "살가이 관리자 애플리케이션 매뉴얼"
+permalink: /documents/user-guide/manager-app/
 ---
 
 # 🧑‍💻 관리자 앱 사용 설명서 (개발예정)

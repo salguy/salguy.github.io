@@ -1,7 +1,10 @@
 ---
 layout: default
 title: 스피커 UI
-nav_order: 3
+nav_order: 2
+parent: "개발 가이드"
+description: "살가이 스피커 UI 개발 가이드"
+permalink: /documents/development/frontend/
 ---
 
 # 🖥 프론트엔드 개발

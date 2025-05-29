@@ -1,8 +1,11 @@
 ---
 layout: default
 title: 개발 가이드
-nav_order: 1
+nav_order: 3
 has_children: true
+description: 살가이 프로젝트 개발 가이드
+permalink: /documents/developments/
+
 ---
 
 # 🛠 개발 환경 설정

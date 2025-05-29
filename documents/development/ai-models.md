@@ -2,6 +2,9 @@
 layout: default
 title: AI 모델
 nav_order: 5
+parent: "개발 가이드"
+description: "살가이 AI모델 개발 가이드"
+permalink: /documents/development/AImodel/
 ---
 
 # 🤖 AI 모델 구조

@@ -1,6 +1,10 @@
 ---
 layout: default
 title: API 명세서
+parent: "개발 가이드"
+nav_order: 4
+description: "살가이 프로젝트 API 명세서"
+permalink: /documents/development/APIspecification/
 ---
 
 # 📡 API 명세서

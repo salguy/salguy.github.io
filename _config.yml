@@ -4,6 +4,9 @@ title: 살가이
 description: 독거노인을 위한 AI 복약관리 프로젝트
 logo: "/assets/images/살가이.png"
 
+plugins:
+  - jekyll-remote-theme
+  
 url: https://salguy.github.io
 
 search_enabled: false

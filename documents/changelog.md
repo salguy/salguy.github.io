@@ -1,6 +1,10 @@
 ---
 layout: default
 title: 변경 이력
+nav_order: 4
+has_children: false
+description: "살가이 프로젝트 업데이트 이력"
+permalink: /documents/changelog/
 ---
 
 # 🗂 변경 이력 (Changelog)
